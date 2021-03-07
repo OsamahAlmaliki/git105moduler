@@ -1,2 +1,3 @@
 # git105samarbeid
-Berat Gunes 
+Berat Gunes
+Karen Thorsen 
