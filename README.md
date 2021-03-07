@@ -1,7 +1,7 @@
 # git105samarbeid
-Berat Gunes
-Karen Thorsen 
-Markus Jacobsen
-Osamah Almaliki
-Tina Ruud
-Jonas Vaaler
+Berat Gunes,
+Karen Thorsen, 
+Markus Jacobsen,
+Osamah Almaliki,
+Tina Ruud,
+Jonas Vaaler.
